@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Blueberry",
+      "calories": 600,
+      "type": "frozen cream",
+      "ingredients": [
+        "wild Blueberry",
+        "chocolate",
+        "cream"
+      ],
+      "image": "images/ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Caramel",
+      "calories": 750,
+      "type": "frozen cream",
+      "ingredients": [
+        "Caramel",
+        "chocolate chips",
+        "cream"
+      ],
+      "image": "images/ice-cream-xtra2.svg"
     }
   ]
 }

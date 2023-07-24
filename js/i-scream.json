@@ -46,7 +46,7 @@
         "chocolate",
         "cream"
       ],
-      "image": "images/ice-cream-xtra1.svg"
+      "image": "ice-cream-xtra1.svg"
     },
     {
       "name": "Caramel",
@@ -57,7 +57,7 @@
         "chocolate chips",
         "cream"
       ],
-      "image": "images/ice-cream-xtra2.svg"
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
